@@ -36,4 +36,4 @@ jobs:
         uses: actions/upload-artifact@v2.3.1
         with:
           name: vigobas-agresso-hr-resource-ma
-          path: bin/release/"Agresso HR MA.dll"
+          path: bin/release/Agresso*.dll
