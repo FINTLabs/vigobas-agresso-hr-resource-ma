@@ -110,8 +110,8 @@
     <Reference Include="Vigo.Bas, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\Vigo.Bas.1.0.1\lib\net472\Vigo.Bas.dll</HintPath>
     </Reference>
-    <Reference Include="Vigo.BAS.Agresso.WebServices, Version=1.0.0.24935, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\Vigo.BAS.Agresso.WebServices.1.0.0\lib\net472\Vigo.BAS.Agresso.WebServices.dll</HintPath>
+    <Reference Include="Vigo.BAS.Agresso.WebServices, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Vigo.BAS.Agresso.WebServices.1.0.3\lib\net472\Vigo.BAS.Agresso.WebServices.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
