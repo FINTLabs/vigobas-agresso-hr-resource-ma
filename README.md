@@ -1,5 +1,3 @@
-﻿# vigobas-agresso-hr-resource-ma
-
 # VIGOBAS Agresso HR Resource MA
 
 ## Description
